@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="https://ca.cmycubes.com/cdn/shop/articles/sebastien-gabriel--imlv9jlb24-unsplash-1.jpg?v=1741830339" alt="Sunset" align="right" width="500">
+<img src="my_new_subfolder/sunset.webp" alt="Sunset" align="right" width="500">
 
 <div style="display:flex; align-items: center;">
 
